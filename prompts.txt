@@ -1,0 +1,47 @@
+Prompts utilizado para criação do titulo
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em desenvolvedores iniciantes e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de Fullstack feito por jovens, e que tenha algo relacionado a geração z no nome
+O podcast vai falar sobre dicas para quem está iniciando no mundo fullstack e o que está acontecendo no mercado
+
+{REGRAS}
+- O nome tenha algo relacionado a geração z
+- O nome deve conter alguma palavra forte que remeta a fullstack
+
+{REGRAS NEGATIVAS}
+- Não quero que o título contenha palavras em inglês
+- Não utilize a palavra geração z no nome nem qualquer variação dela
+
+
+
+Prompts utilizado para criação do roteiro
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em FullStack cujo o nome é "Bit na Veia - uma linha de código por vez." e tem foco em fullstack,  com o público alvo de iniciantes em fullstack
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[DICA 1]
+[CURIOSIDADE 1]
+[DICA 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'CURSO EM VIDEO', como se fossem escritos pelo PROFESSOR GUSTAVO GUANABARA
+- no bloco [DICA 1] substitua por uma dica de quem está começando com FULLSTACK
+- no bloco [CURIOSIDADE 1] sobre uma ferramenta para fullstack
+- no bloco [DICA 2] substitua por uma dica de ferramentas uteis para uso do dia a dia
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Negooh e esse foi o Bit na Veia dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Negooh
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+
+Prompts utilizado para criação da capa
+
+Crie uma imagem de um homem negro, com tranças nagô no cabelo, headset, óculos escuros, tatuado e de relogio
+Crie uma versão voltada a anime 
